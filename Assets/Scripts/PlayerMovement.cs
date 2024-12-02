@@ -35,16 +35,15 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        HandleMovement(); // WASD 이동 처리
+        HandleMovement(); // 이동 처리
         HandleMouseLook(); // 마우스를 통한 시점 조작
     }
 
     // WASD를 이용한 이동 처리 함수
     void HandleMovement()
     {
-        // Input.GetAxis를 사용해 플레이어 입력값 받아오기
-        float moveX = Input.GetAxis("Horizontal"); // A, D 키
-        float moveZ = Input.GetAxis("Vertical");   // W, S 키
+        float moveX = Input.GetAxis("Horizontal");
+        float moveZ = Input.GetAxis("Vertical"); 
 
         // 쉬프트 키를 누를 때 달리기 속도로 변경
         if (Input.GetKey(KeyCode.LeftShift))
