@@ -24,7 +24,7 @@
 (여기에 추가할 내용 입력)
 
 ## <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="32"> 피그마
-**김준석 기획자 작성** - [피그마 UI 설명](https://www.figma.com/design/zRjwMhzoyrsHRMH3sb0yZp/Untitled?node-id=0-1&t=9H8Dp40Wgg3mcMkx-1)
+**김준석 기획자 작성** - [<code>피그마 UI 설명</code>](https://www.figma.com/design/zRjwMhzoyrsHRMH3sb0yZp/Untitled?node-id=0-1&t=9H8Dp40Wgg3mcMkx-1)
 
 ## 🎨 캐릭터 소개
 (여기에 추가할 내용 입력)
