@@ -17,7 +17,7 @@
 | **김나연** <br> 2D 일러스트 <br> ktero404@naver.com | **선노을** <br> 2D 일러스트 <br> thffus12@naver.com |
 
 ## 🛠️ 사용한 에셋  
-(여기에 사용한 에셋을 추가)
+[<code>Stylized Grass Shader</code>](https://assetstore.unity.com/packages/vfx/shaders/stylized-grass-shader-143830)
 
 ## 📅 추가 내용
 (여기에 추가할 내용 입력)
