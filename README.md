@@ -1,8 +1,8 @@
 ## 🎮 프로젝트 소개  
-이 게임은 '루프'에서 만든 게임입니다.
+이 게임은 **'루프'** 에서 만든 게임입니다.
 
 ## 📊 정보  
-**유니티 버전**: <code>2022.3.22 LTS</code>
+**유니티 버전**: [<code>2022.3.22 LTS</code>](https://unity.com/kr/releases/editor/whats-new/2022.3.22)
 
 ## 🍳 게임 설명  
 "🍳 요리, 🌿 채집, 🤝 협동을 결합한 팀 플레이 게임. '💸 채무' 시스템으로 긴장감을 유지하며, 🌌 우주 배경과 👽 외계 생명체를 통해 독창적이고 도전적인 경험을 제공합니다."
@@ -20,5 +20,14 @@
 ## 🛠️ 사용한 에셋  
 (여기에 사용한 에셋을 추가)
 
-## 📅 추가 내용  
+## 📅 추가 내용
+(여기에 추가할 내용 입력)
+
+## <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="32"> 피그마
+**김준석 기획자 작성** - [피그마 UI 설명](https://www.figma.com/design/zRjwMhzoyrsHRMH3sb0yZp/Untitled?node-id=0-1&t=9H8Dp40Wgg3mcMkx-1)
+
+## 🎨 캐릭터 소개
+(여기에 추가할 내용 입력)
+
+## <img src="https://img.icons8.com/?size=100&id=v9bXBzXxKY3G&format=png&color=000000" width="32"> 3D 모델링
 (여기에 추가할 내용 입력)
