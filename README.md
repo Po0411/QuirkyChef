@@ -29,4 +29,4 @@
 (여기에 추가할 내용 입력)
 
 ## <img src="https://img.icons8.com/?size=100&id=v9bXBzXxKY3G&format=png&color=000000" width="32"> 3D 모델링
-(여기에 추가할 내용 입력)
+**우현중 모델러** - [<code>모델링 설명</code>](https://whj6543.wixsite.com/woorks)
