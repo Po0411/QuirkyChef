@@ -13,8 +13,8 @@
 | **김준석** <br> 기획자 <br> haranges@naver.com | **조하랑** <br> 프로그래밍 <br> wawa111027@gmail.com | **우현중** <br> 3D 모델링 <br> whj6543@gmail.com |
 | <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> | <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> | <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> |
 | **이강산** <br> 3D 모델링 <br> l3687767@naver.com | **최지인** <br> 3D 모델링 <br> niij1103@naver.com | **박지용** <br> 3D 모델링 <br> tpdydehdtod03@naver.com |
-| <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> | <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> |
-| **김나연** <br> 2D 일러스트 <br> ktero404@naver.com | **선노을** <br> 2D 일러스트 <br> thffus12@naver.com |
+| <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> | <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> | <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> |
+| **김나연** <br> 2D 일러스트 <br> knychhy1217@naver.com | **선노을** <br> 2D 일러스트 <br> thffus12@naver.com | **김재훈** <br> 3D 모델링 <br> dtmh469@naver.com |
 
 ## 🛠️ 사용한 에셋  
 **1.** [<code>Stylized Grass Shader</code>](https://assetstore.unity.com/packages/vfx/shaders/stylized-grass-shader-143830)
